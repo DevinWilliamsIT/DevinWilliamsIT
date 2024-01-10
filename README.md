@@ -8,7 +8,6 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DevinWilliamsIT/configure-ad)
   - [Building Intuition For DNS](https://github.com/DevinWilliamsIT/azure-network-protocols)
-  - [Setting Up Azure Sentinel Map With Live Attackers](https://github.com/DevinWilliamsIT/siemtutorial)
 
 <h2>🤳Connect with me:</h2>
 
